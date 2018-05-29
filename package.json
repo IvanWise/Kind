@@ -1,0 +1,19 @@
+{
+  "name": "kind",
+  "version": "0.0.0",
+  "description": "kind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanWise/kind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanWise/kind/issues"
+  },
+  "homepage": "https://github.com/IvanWise/kind#readme"
+}
